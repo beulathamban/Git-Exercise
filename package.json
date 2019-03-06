@@ -1,0 +1,30 @@
+{
+  "name": "git-exercise",
+  "version": "1.0.0",
+  "description": "git exercise",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beulathamban/Git-Exercise.git"
+  },
+  "keywords": [
+    "git",
+    "npm"
+  ],
+  "author": "Beula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beulathamban/Git-Exercise/issues"
+  },
+  "homepage": "https://github.com/beulathamban/Git-Exercise#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "jquery": "^3.3.1"
+  }
+}
